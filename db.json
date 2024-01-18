@@ -1,0 +1,88 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "product_name": "smartphone",
+      "category": "electronics",
+      "image_Url": "https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtY2RuLnVidXkuY28uaW4vNjM0ZDAzMWRiYThmZTYyM2I0Nzg5M2NjLXNtYXJ0LXBob25lLWFuZHJvaWQtOC0xLXNtYXJ0cGhvbmUtaGQuanBn.jpg",
+      "description": "weeertyhjjj",
+      "price": "20k"
+    },
+    {
+      "id": "2",
+      "product_name": "TV",
+      "category": "electronics",
+      "image_Url": "https://lh3.googleusercontent.com/proxy/X6jqAr_9WKYa2abGNTvgwEFUSRHH-bokxoVb5HihUkA11Ff1bzOpGJBPzqLhUJ6PCvYLtMcgycGPhIk1cBRmzw--maIDKD8DaH561lfLKwtp4cEr3KQ3ZbMiqfoLfNegISFuk6yaqSw",
+      "description": "electronic hd tv",
+      "price": "$400"
+    },
+    {
+      "id": "3",
+      "product_name": "smartwatch",
+      "category": "electronics",
+      "image_Url": "https://www.leafstudios.in/cdn/shop/products/Main_a66bce90-71a9-4c4f-9469-078ec70933e0_800x.jpg?v=1673960414",
+      "description": "rechargable smartwatch",
+      "price": "$20"
+    },
+    {
+      "id": "4",
+      "product_name": "headset",
+      "category": "electronics",
+      "image_Url": "https://uniquec.com/wp-content/uploads/Headset-500.png",
+      "description": "headset",
+      "price": "$120"
+    },
+    {
+      "id": "5",
+      "product_name": "speaker",
+      "category": "electronics",
+      "image_Url": "https://www.artis.in/cdn/shop/products/1_96dd2244-53f4-449d-bf8e-4ac1bad9f490.jpg?v=1653639739",
+      "description": "blutooth speaker",
+      "price": "$320"
+    },
+    {
+      "id": "6",
+      "product_name": "sunscreen",
+      "category": "cosmetics",
+      "image_Url": "https://www.drsheths.com/cdn/shop/products/CVC-Sunscreen_600x.jpg?v=1665755509",
+      "description": "chemical sunscreen",
+      "price": "$50"
+    },
+    {
+      "id": "7",
+      "product_name": "shampoo",
+      "category": "cosmetics",
+      "image_Url": "https://static.thcdn.com/images/large/original//productimg/1600/1600/13844878-4824958929736535.jpg",
+      "description": "chemical shampoo",
+      "price": "$60"
+    },
+    {
+      "id": "8",
+      "product_name": "fry pan",
+      "category": "kitchen utensils",
+      "image_Url": "https://www.ikea.com/in/en/images/products/tagghaj-frying-pan-non-stick-coating-black__1172496_pe893318_s5.jpg?f=s",
+      "description": "non stick fry pan",
+      "price": "$350"
+    },
+    {
+      "id": "9",
+      "product_name": "knife",
+      "category": "kitchen utensils",
+      "image_Url": "https://rukminim2.flixcart.com/image/850/1000/xif0q/kitchen-knife/3/l/o/meat-steak-fruit-vegetable-knife-full-tang-plastic-handle-5-original-imag6gg9ztcagjnh.jpeg?q=90",
+      "description": "knife",
+      "price": "$100"
+    }
+  ],
+  "Category": [
+    {
+      "electronics": {}
+    },
+    {
+      "cosmetics": {}
+    },
+    {
+      "kitchen-utensils": {}
+    }
+  ],
+  "history": []
+}
